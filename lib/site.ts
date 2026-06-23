@@ -1,7 +1,7 @@
 export const site = {
   name: "Aurchain Biotech",
   url: "https://www.aurchainbio.com",
-  email: "sales@aurchainbio.com",
+  email: "nora@aurchainbio.com",
   whatsapp: "447724786175",
   location: "Global peptide supply · Serving US and international partners"
 };

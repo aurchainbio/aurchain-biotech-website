@@ -14,7 +14,7 @@ Open `http://localhost:3000`.
 ## Before launch
 
 1. Open `lib/site.ts` and replace the placeholder WhatsApp number with the final full international number (digits only).
-2. Confirm that `sales@aurchainbio.com` is active, or update it in the same file.
+2. Confirm that `nora@aurchainbio.com` is active, or update it in the same file.
 3. Review the example catalog in `data/products.ts`. Add or remove product objects there; the search and filters update automatically.
 4. Confirm all regulatory language with your legal/compliance advisor for each target market.
 
